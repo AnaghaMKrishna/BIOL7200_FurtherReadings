@@ -1,0 +1,13 @@
+--- fruits1.txt	2024-09-13 20:45:34.979957549 -0400
++++ fruits2.txt	2024-09-13 20:54:16.151015979 -0400
+@@ -1,7 +1,6 @@
++Orange
+ Mango
+-Apple
+-Peach
++Pear
+ Banana
+-Watermelon
++Apple
+ Jackfruit
+-Cherry

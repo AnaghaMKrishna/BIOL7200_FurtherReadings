@@ -1,0 +1,1 @@
+c859ec5a25506367506bce972788aca8  ./GCF_000006765.1_ASM676v1_genomic.fna.gz
